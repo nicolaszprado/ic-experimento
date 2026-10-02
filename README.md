@@ -87,11 +87,20 @@ SonarQube
    ↓
 Build
 ```
-# Evidencias
+## Evidências da análise de qualidade
 
-pipeline completa no actions - './evidencias/pipeline-completa-actions.png'
-painel sonar - './evidencias/painel-sonar-qube.png'
-status pipeline - './evidencias/pipe-status.png'
-status de todas pipelines (rodei 2x e uma falhou por erro de config) - './evidencias/pipes-status.png'
-scan do sonar qube - './evidencias/sonar-scan.png'
-resumo no sonar qube cloud - './evidencias/summary-sonar-qube.png'
+### Pipeline
+
+![Execução completa e bem-sucedida do pipeline no GitHub Actions](docs/evidencias/pipeline-completa-actions.png)
+
+### SonarQube Scan
+
+![Etapa de análise do SonarQube executada pelo pipeline](docs/evidencias/sonar-scan.png)
+
+### SonarQube
+
+![Dashboard do projeto no SonarQube Cloud após a análise](docs/evidencias/painel-sonar-qube.png)
+
+### Quality Gate
+
+![Quality Gate aprovado no SonarQube Cloud](docs/evidencias/summary-sonar-qube.png)
