@@ -87,3 +87,11 @@ SonarQube
    ↓
 Build
 ```
+# Evidencias
+
+pipeline completa no actions - './evidencias/pipeline-completa-actions.png'
+painel sonar - './evidencias/painel-sonar-qube.png'
+status pipeline - './evidencias/pipe-status.png'
+status de todas pipelines (rodei 2x e uma falhou por erro de config) - './evidencias/pipes-status.png'
+scan do sonar qube - './evidencias/sonar-scan.png'
+resumo no sonar qube cloud - './evidencias/summary-sonar-qube.png'
